@@ -1,0 +1,2 @@
+Time,Glucose,Hour,Minute,Glucose_Level_Range,Hour_sin,Hour_cos,Minute_sin,Minute_cos,Glucose_roll_mean,Glucose_lag1,Glucose_lag2,Glucose_lag3,Glucose_lag4,Glucose_15min,Glucose_30min,Glucose_45min,Glucose_60min
+2025-04-21 20:17:52.157000+00:00,8.5,20,17,High,-0.8660254037844386,0.5000000000000001,0.9781476007338057,-0.20791169081775934,8.5,,,,,,,,
